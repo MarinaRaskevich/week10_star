@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div {
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  width: 20%;
+}
+
+button {
+  margin-top: 5%;
+  padding: 1% 4%;
+  border: 1px solid black;
+  background-color: black;
+  color: white;
+}
